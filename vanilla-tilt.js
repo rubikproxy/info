@@ -1,3 +1,20 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "SANJAY KUMAR | rubikproxy",
+  "url": "https://www.rubikproxy.com/",
+  "image": "https://rubikproxy.netlify.app/assets/rubikproxy.jpg",
+  "sameAs": [
+    "https://twitter.com/rubikproxy",
+    "https://www.linkedin.com/in/rubikproxy/",
+    "https://www.instagram.com/rubikproxy/",
+    "",
+    "https://www.facebook.com/rubikproxy"
+  ]  
+}
+</script>
+
 var VanillaTilt = (function () {
   'use strict';
 
