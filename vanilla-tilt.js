@@ -2,8 +2,8 @@
 {
   "@context": "https://schema.org/",
   "@type": "Person",
-  "name": "SANJAY KUMAR | rubikproxy",
-  "url": "https://www.rubikproxy.com/",
+  "name": "profile card| @rubikproxy",
+  "url": "https://rubikproxy.netlify.app/",
   "image": "https://rubikproxy.netlify.app/assets/rubikproxy.jpg",
   "sameAs": [
     "https://twitter.com/rubikproxy",
